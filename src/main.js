@@ -1,5 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
+import './assets/fontawesome/css/all.min.css'
+import './assets/css/style.css'
+import './assets/css/bootstrap.css'
+
+
 
 Vue.config.productionTip = false
 
